@@ -49,5 +49,10 @@ body{
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 25%;
+    grid-template-columns: 30%;
+}
+.footer{
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
 }
