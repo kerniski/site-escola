@@ -49,10 +49,13 @@ body{
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 30% 30%;
+    grid-template-columns: 35% 35%;
 }
 .footer{
     background-color: black;
     padding: 15px 0;
+    text-align: center;
+}
+.estudante-titulo{
     text-align: center;
 }
